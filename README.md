@@ -16,6 +16,6 @@ CSS bilgilerinin pekiştirilmesi adına Google'ın ilk versiyonu(Google 1998) HT
 
 ## Ödev - 3
 
-Bu ödev de günümüzde kullanılan [Google](https://www.google.com/) sitesi, HTML ve CSS kullanarak geliştirildi.
+Bu ödev de günümüzde kullanılan [Google](https://www.google.com/) sitesi, HTML ve CSS kullanılarak geliştirildi.
 
 ![homework3](https://user-images.githubusercontent.com/71905489/180321701-6ad40133-e386-466d-b977-f1f795c25081.png)
