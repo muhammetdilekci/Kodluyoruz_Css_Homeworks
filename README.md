@@ -1,6 +1,6 @@
 # Patika.dev Css Ödevler
 
-Bu repo [Patika.dev](https://www.patika.dev/) Başlangıç Seviyesi Frontend eğitimi kapsamında yapılan css ile ilgili ödevleri kapsamaktadır. 
+Bu repo [Patika.dev](https://www.patika.dev/) Başlangıç Seviyesi Frontend Eğitimi kapsamında yapılan css ile ilgili ödevleri kapsamaktadır. 
 
 ## Ödev - 1
 
