@@ -1,0 +1,126 @@
+/* --------- Font Style Import ------------- */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Playfair Display', serif;
+    background: #beb19e;
+    font-weight: 700;
+   
+}
+
+:root {
+    --main-color: #beb19e;
+    --second-color: #816574;
+    --third-color: #53433e;
+    --fourth-color: #3E4A37;
+    --fifth-color: #6c5a63;
+}
+
+.header {
+    text-align: center;
+}
+
+.header .tarif_baslik {
+    color: var(--third-color);
+}
+
+.header a {
+    text-decoration: none;
+    color: var(--second-color);
+    padding-right: 15px;
+}
+
+.icerik_resim {
+    text-align: center;
+}
+
+.icerik_yazi {
+    text-align: center;
+}
+
+.content p {
+    width: 450px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--fourth-color);
+    text-align: center;    
+}
+
+img {
+    max-width: 920px;
+    max-height: 1080px;
+}
+
+.malzemeler_head {
+    color: var(--third-color);
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.grid_item {
+    max-width: 800px;
+    box-shadow: 0 3rem 6rem rgba(0, 0, 0, .1);
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.card_img {
+    display: block;
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.card_header {
+    text-align: center;
+}
+
+.card_content {
+    padding: 20px 20px;
+}
+
+.card_header {
+    margin-bottom: 10px;
+}
+
+.card_text {
+    margin-bottom: 20px;
+}
+
+li {
+    color: var(--fourth-color);
+}
+
+.card_btn {
+    margin-top: 10px;
+    background-color: var(--fifth-color);
+    display: block;
+    width: 100%;
+    padding: 15px;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.card_btn a {
+    background-color: var(--fifth-color);
+    text-decoration: none;
+    color: #000;
+    font-weight: 700;
+}
+
+
