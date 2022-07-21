@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 100%;
+    padding: 8px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.second_row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #EEEEEE;
+    width: 1562px;
+}
+
+.sr_head {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.sr_input {
+    width: 303px;
+    padding: 1px 2px;
+}
+
+.secondrow_btn {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn_1 {
+    width: 104px;
+}
+
+.btn_2 {
+    width: 110px;
+}
+
+.third_row {
+    margin-top: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.column {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 71px;
+}
+
+.f_col {
+    background-color: #7ee5da;
+    width: 571px;
+    padding: 1px 8px;
+}
+
+.s_col {
+    background-color: #70ccc2;
+    width: 308px;
+    margin-right: 2px;
+    margin-left: 2px;
+}
+
+.s_col a {
+    font-size: 13px;
+}
+
+.t_col {
+    background-color: #62b3aa;
+    width: 664px;
+}
+
+.t_col p {
+    font-size: 13px;
+}
+
+.tr_input {
+    width: 170px;
+}
+
+.t_col ::placeholder {
+    color: #000;
+}
+
+.t_col button {
+    width: 75px;
+    height: 20px;
+}
+
+.t_col a {
+    font-size: 13px;
+    margin-left: 8px;
+}
+
+.fourth_row {
+    margin-top: 18px;
+}
+
+.fourth_row p {
+    font-size: 13px;
+}
