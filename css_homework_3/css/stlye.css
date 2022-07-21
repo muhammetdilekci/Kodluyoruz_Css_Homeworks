@@ -180,16 +180,17 @@
     margin-right: 12px;
   }
 
+  /* Buton Rengi ve Yüksekliği Düzeltilerek, Border Rengi Düzeltildi */
   .googlesearch {
     background-color: #f8f9fa;
-    border: 1px solid #f8f9fa;
+    border: 1px solid #f2f2f2;
     border-radius: 4px;
-    color: #3c4043;
+    color: #5f6368;
     font-family: Arial, sans-serif;
     font-size: 14px;
     margin: 11px 4px;
     padding: 0 16px;
-    line-height: 27px;
+    line-height: 36px;
     min-width: 54px;
     text-align: center;
     cursor: pointer;
@@ -200,15 +201,16 @@
     box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px 0px;
   }
   
+  /* Buton Rengi ve Yüksekliği Düzeltilerek, Border Rengi Düzeltildi */
   .feelinglucky {
     background-color: #f8f9fa;
-    border: 1px solid #f8f9fa;
+    border: 1px solid #f2f2f2;
     border-radius: 4px;
-    color: #3c4043;
+    color: #5f6368;
     font-family: Arial, sans-serif;
     font-size: 14px;
     padding: 0 16px;
-    line-height: 27px;
+    line-height: 36px;
     min-width: 54px;
     text-align: center;
     cursor: pointer;
